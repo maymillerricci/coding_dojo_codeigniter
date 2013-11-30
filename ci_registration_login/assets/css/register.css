@@ -1,0 +1,56 @@
+#wrapper {
+	width: 960px;
+	margin: 0 auto;
+}
+input {
+	margin: 5px 15px;
+	width: 250px;
+	border: 2px solid black;
+}
+input.btn {
+	width: 100px;
+	font-size: 1.1em;
+	background-color: darkslateblue;
+	border: 1px solid black;
+	box-shadow: 5px 5px 5px black;
+}
+input.btn:hover {
+	background-color: indigo;
+	border: 1px solid black;
+}
+div.border {
+	border: 3px solid black;
+	padding: 15px;
+	width: 800px;
+	margin: 20px;
+}
+.alert {
+	padding: 5px 20px;
+	background-color: white;
+	border: none;
+}
+div#header {
+	border-bottom: 3px solid black;
+}
+input.add_friend {
+	background-color: gray;
+	color: white;
+	font-size: .9em;
+	width: 100px;
+	box-shadow: none;
+}
+input.add_friend:hover {
+	background-color: dimgray;
+	color: white;
+}
+table {
+	border-collapse: collapse;
+}
+th, td {
+	border: 1px solid darkgray;
+	padding: 10px;
+}
+a {
+	float: right;
+	color: blue;
+}
